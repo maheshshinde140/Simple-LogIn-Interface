@@ -1,4 +1,4 @@
-# Project 1: Simple Login Page
+# Simple Login Page
 
 This project showcases a simple and elegant login page created with HTML and CSS. The goal of this project is to provide a clean and user-friendly interface for user authentication. Whether you're a beginner looking to understand the basics of web development or someone in need of a straightforward login template, this project serves as an excellent starting point.
 
