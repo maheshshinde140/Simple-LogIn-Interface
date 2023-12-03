@@ -33,7 +33,9 @@ This project showcases a simple and elegant login page created with HTML and CSS
 ## Screenshots
 
 Include screenshots of the login page to give users a visual preview of the project.
-![Screenshot 2023-12-03 003849](https://github.com/maheshshinde140/Projects/assets/97420827/7231002f-96c5-450f-a2c6-ef2cd6c595ad)
+
+![Screenshot 2023-12-03 003849](https://github.com/maheshshinde140/Simple-LogIn-Interface/assets/97420827/bcb5f714-024a-4ece-87df-c98e20b74d78)
+
 
 ## Contributing
 
